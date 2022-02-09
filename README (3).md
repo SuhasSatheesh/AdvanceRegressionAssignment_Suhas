@@ -4,9 +4,9 @@
 
 ## Problem Statement:
 * [Background](#Background)
-* [Business Goal](#Business Goal)
-* [Analytical Goal](#Analytical Goal)
-* [Technology Used](#Technology Used)
+* [Business Goal](#BusinessGoal)
+* [Analytical Goal](#AnalyticalGoal)
+* [Technology Used](#TechnologyUsed)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
